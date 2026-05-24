@@ -155,7 +155,7 @@ export function ContactSection() {
                 <h3 className="text-xl font-semibold text-foreground mb-6">Social Links</h3>
                 <div className="flex gap-4">
                   <motion.a
-                    href="https://github.com/"
+                    href="https://github.com/UtkarshBamaniya"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-12 h-12 bg-card border border-border rounded-lg flex items-center justify-center text-muted-foreground hover:text-foreground hover:border-primary/50 transition-all"
@@ -164,7 +164,7 @@ export function ContactSection() {
                     <Github className="w-5 h-5" />
                   </motion.a>
                   <motion.a
-                    href="https://linkedin.com/"
+                    href="https://www.linkedin.com/in/utkarsh-bamaniya-96b834227/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-12 h-12 bg-card border border-border rounded-lg flex items-center justify-center text-muted-foreground hover:text-foreground hover:border-primary/50 transition-all"

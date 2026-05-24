@@ -33,7 +33,7 @@ export function Footer() {
             className="flex items-center gap-4"
           >
             <motion.a
-              href="https://github.com/"
+              href="https://github.com/UtkarshBamaniya"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-foreground transition-colors"
@@ -42,7 +42,7 @@ export function Footer() {
               <Github className="w-5 h-5" />
             </motion.a>
             <motion.a
-              href="https://linkedin.com/"
+              href="https://www.linkedin.com/in/utkarsh-bamaniya-96b834227/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-foreground transition-colors"
