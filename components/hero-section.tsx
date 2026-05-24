@@ -98,7 +98,7 @@ export function HeroSection() {
               </a>
             </Button>
             <Button variant="outline" size="lg" asChild>
-              <a href="/resume.pdf" download>
+              <a href="/resume.pdf" download="Utkarsh_Bamaniya_Resume.pdf">
                 Download Resume
               </a>
             </Button>
@@ -120,7 +120,7 @@ export function HeroSection() {
               <Github className="w-6 h-6" />
             </motion.a>
             <motion.a
-              href="https://linkedin.com/"
+              href="https://www.linkedin.com/in/utkarsh-bamaniya-96b834227/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-foreground transition-colors"
@@ -139,7 +139,7 @@ export function HeroSection() {
         </div>
 
         <motion.div
-          initial={{ opacity: 0 }} 
+          initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 0.5, delay: 1 }}
           className="absolute bottom-10 left-1/2 -translate-x-1/2"
