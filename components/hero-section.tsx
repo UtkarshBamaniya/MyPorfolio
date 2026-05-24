@@ -97,11 +97,11 @@ export function HeroSection() {
                 </motion.span>
               </a>
             </Button>
-            <Button variant="outline" size="lg" asChild>
+            {/* <Button variant="outline" size="lg" asChild>
               <a href="/resume.pdf" download="Utkarsh_Bamaniya_Resume.pdf">
                 Download Resume
               </a>
-            </Button>
+            </Button> */}
           </motion.div>
 
           <motion.div
